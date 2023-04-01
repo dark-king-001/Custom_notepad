@@ -1,0 +1,9 @@
+{
+    "save_path": "notepad/data.txt",
+    "command_log": "process/log.txt",
+    "startup_layout": "810x810",
+    "settings": {
+        "foreground": "Green",
+        "background": "Black"
+    }
+}
